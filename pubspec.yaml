@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   hex: ^0.2.0
-  image: ^3.0.1
+  image: ^4.0.10
   html: ^0.15.0
 
 dev_dependencies:
